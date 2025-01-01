@@ -1,5 +1,5 @@
 import { CheckCircle, ArrowRight } from 'lucide-react'
-import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card"
+import { Card, CardContent, CardHeader, CardTitle } from "/Users/anushkajogalekar/Downloads/legal-assistant 2/components/ui/card"
 
 export default function ConfirmationPage() {
   return (
