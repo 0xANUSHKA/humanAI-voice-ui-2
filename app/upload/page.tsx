@@ -3,8 +3,8 @@
 import { Upload, Phone } from 'lucide-react'
 import { useState } from "react"
 import { useRouter } from 'next/navigation'
-import { Button } from "@/components/ui/button"
-import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card"
+import { Button } from "/Users/anushkajogalekar/Downloads/legal-assistant 2/components/ui/button"
+import { Card, CardContent, CardHeader, CardTitle } from "/Users/anushkajogalekar/Downloads/legal-assistant 2/components/ui/card"
 import { uploadDocument } from "../actions"
 
 export default function UploadPage() {

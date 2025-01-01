@@ -2,34 +2,42 @@
   "node": {
     "cc0be2d82817e923818c59a33e35919e1d01c474": {
       "workers": {
-        "app/page": "(actionBrowser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fanushkajogalekar%2FDownloads%2Flegal-assistant%202%2Fapp%2Factions.ts%22%2C%5B%22mockVerifyCode%22%2C%22verifyCode%22%2C%22uploadDocument%22%2C%22getAIResponse%22%5D%5D%5D&__client_imported__=true!"
+        "app/page": "(actionBrowser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fanushkajogalekar%2FDownloads%2Flegal-assistant%202%2Fapp%2Factions.ts%22%2C%5B%22mockVerifyCode%22%2C%22verifyCode%22%2C%22uploadDocument%22%2C%22getAIResponse%22%5D%5D%5D&__client_imported__=true!",
+        "app/upload/page": "(actionBrowser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fanushkajogalekar%2FDownloads%2Flegal-assistant%202%2Fapp%2Factions.ts%22%2C%5B%22mockVerifyCode%22%2C%22verifyCode%22%2C%22uploadDocument%22%2C%22getAIResponse%22%5D%5D%5D&__client_imported__=true!"
       },
       "layer": {
-        "app/page": "actionBrowser"
+        "app/page": "actionBrowser",
+        "app/upload/page": "actionBrowser"
       }
     },
     "47e25c754b0d86916cd9f519085de554e3b690bb": {
       "workers": {
-        "app/page": "(actionBrowser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fanushkajogalekar%2FDownloads%2Flegal-assistant%202%2Fapp%2Factions.ts%22%2C%5B%22mockVerifyCode%22%2C%22verifyCode%22%2C%22uploadDocument%22%2C%22getAIResponse%22%5D%5D%5D&__client_imported__=true!"
+        "app/page": "(actionBrowser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fanushkajogalekar%2FDownloads%2Flegal-assistant%202%2Fapp%2Factions.ts%22%2C%5B%22mockVerifyCode%22%2C%22verifyCode%22%2C%22uploadDocument%22%2C%22getAIResponse%22%5D%5D%5D&__client_imported__=true!",
+        "app/upload/page": "(actionBrowser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fanushkajogalekar%2FDownloads%2Flegal-assistant%202%2Fapp%2Factions.ts%22%2C%5B%22mockVerifyCode%22%2C%22verifyCode%22%2C%22uploadDocument%22%2C%22getAIResponse%22%5D%5D%5D&__client_imported__=true!"
       },
       "layer": {
-        "app/page": "actionBrowser"
+        "app/page": "actionBrowser",
+        "app/upload/page": "actionBrowser"
       }
     },
     "f4fcdd61b2cd6d17c296cfac3d7b8afde01ff43b": {
       "workers": {
-        "app/page": "(actionBrowser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fanushkajogalekar%2FDownloads%2Flegal-assistant%202%2Fapp%2Factions.ts%22%2C%5B%22mockVerifyCode%22%2C%22verifyCode%22%2C%22uploadDocument%22%2C%22getAIResponse%22%5D%5D%5D&__client_imported__=true!"
+        "app/page": "(actionBrowser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fanushkajogalekar%2FDownloads%2Flegal-assistant%202%2Fapp%2Factions.ts%22%2C%5B%22mockVerifyCode%22%2C%22verifyCode%22%2C%22uploadDocument%22%2C%22getAIResponse%22%5D%5D%5D&__client_imported__=true!",
+        "app/upload/page": "(actionBrowser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fanushkajogalekar%2FDownloads%2Flegal-assistant%202%2Fapp%2Factions.ts%22%2C%5B%22mockVerifyCode%22%2C%22verifyCode%22%2C%22uploadDocument%22%2C%22getAIResponse%22%5D%5D%5D&__client_imported__=true!"
       },
       "layer": {
-        "app/page": "actionBrowser"
+        "app/page": "actionBrowser",
+        "app/upload/page": "actionBrowser"
       }
     },
     "65d1cc66c7869074762e4e329f29fa804e846121": {
       "workers": {
-        "app/page": "(actionBrowser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fanushkajogalekar%2FDownloads%2Flegal-assistant%202%2Fapp%2Factions.ts%22%2C%5B%22mockVerifyCode%22%2C%22verifyCode%22%2C%22uploadDocument%22%2C%22getAIResponse%22%5D%5D%5D&__client_imported__=true!"
+        "app/page": "(actionBrowser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fanushkajogalekar%2FDownloads%2Flegal-assistant%202%2Fapp%2Factions.ts%22%2C%5B%22mockVerifyCode%22%2C%22verifyCode%22%2C%22uploadDocument%22%2C%22getAIResponse%22%5D%5D%5D&__client_imported__=true!",
+        "app/upload/page": "(actionBrowser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fanushkajogalekar%2FDownloads%2Flegal-assistant%202%2Fapp%2Factions.ts%22%2C%5B%22mockVerifyCode%22%2C%22verifyCode%22%2C%22uploadDocument%22%2C%22getAIResponse%22%5D%5D%5D&__client_imported__=true!"
       },
       "layer": {
-        "app/page": "actionBrowser"
+        "app/page": "actionBrowser",
+        "app/upload/page": "actionBrowser"
       }
     }
   },
